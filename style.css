@@ -1,0 +1,16 @@
+.colorChange{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+#container{
+    margin-top: 40px;
+    position: relative;
+    width: 800px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.image_zone{
+    position: absolute;
+}
